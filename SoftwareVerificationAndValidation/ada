@@ -1,0 +1,201 @@
+[33mcommit 82f64ccbd496f910ccb3dccca1c9e38a1fe4ec38[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Jossoft <ydilekci1@gmail.com>
+Date:   Thu May 25 20:43:46 2023 +0300
+
+    impParameterizedTest
+
+[33mcommit ada96410c0236848cc5cd3b13144253e94bf3aed[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Apr 3 16:24:11 2023 +0300
+
+    Update
+
+[33mcommit 3da492b31d916da5c884ce6cd90375c7210df581[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Apr 3 16:18:29 2023 +0300
+
+    Clean
+
+[33mcommit f94533a2a1edbce9ac3248fe320c56ce7b6c41a0[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Apr 3 10:28:50 2023 +0300
+
+    Update
+
+[33mcommit 9e6088f6999dac4aa639f718edcb4b90a72d7afc[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Fri Mar 10 17:05:14 2023 +0300
+
+    Fault, Error, Failure Example
+
+[33mcommit 868fd424033473bcee23cf5844add1d7ebac5d62[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Feb 27 14:58:57 2023 +0300
+
+    Update
+
+[33mcommit 7a0153d95de299d49662787426d12a3cb6f3881f[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Feb 27 14:58:13 2023 +0300
+
+    Fault, Error, Failure Example
+
+[33mcommit a370b1646844f791d95989f2d1801dc462694cd6[m
+Merge: 3bacb36 0c3eac7
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Feb 27 11:50:26 2023 +0300
+
+    Merge branch 'main' of https://github.com/veyselharun/SoftwareVerificationAndValidation
+
+[33mcommit 3bacb360d7ad2d6e2c77c426c06e3e9d474161c0[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Feb 27 11:49:49 2023 +0300
+
+    Fault, Error, Failure Example
+
+[33mcommit 0c3eac701018c653ea7b6bb027bf2f89a8a3c265[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Fri Feb 3 15:32:57 2023 +0300
+
+    Fault, Error, Failure Example
+
+[33mcommit 6f5762724009a96c2989ee4e22046cd925eba59b[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Wed Feb 1 19:15:40 2023 +0300
+
+    Fault, Error, and Failure Concepts
+
+[33mcommit 40343042bad74b6a05b38694b3721d8147ccf056[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Fri Jan 27 15:18:08 2023 +0300
+
+    Demonstration of fault, error and failure concepts.
+
+[33mcommit 4fd8f6a093c2f118cb5a57c26d565d6e3c4ff95b[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Fri Jan 27 13:05:36 2023 +0300
+
+    Update
+
+[33mcommit 46b8eb4925f503ed3ef58cc21c2ec38dd5989d79[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Fri Jan 27 10:21:46 2023 +0300
+
+    Update README.md
+
+[33mcommit cab89b828f34da4a4b78e3b32b930b0681fb7e44[m
+Merge: 8232ac4 3604418
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Oct 31 08:49:27 2022 +0300
+
+    Merge branch 'main' of https://github.com/veyselharun/SoftwareVerificationAndValidation
+
+[33mcommit 8232ac474ee81d860c52064d3eae64e9db29da9e[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Oct 31 08:49:25 2022 +0300
+
+    Update
+
+[33mcommit 360441875a816b6a63be08df10d692693b5d93fd[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Fri Oct 28 11:42:21 2022 +0300
+
+    Update README.md
+
+[33mcommit 94696fe489b32f410d9aaf08553538161a9b5977[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Thu Mar 31 08:12:42 2022 +0300
+
+    Update
+
+[33mcommit cbacfcaaa10ab729ca1ecf1dfc53efeb7dcdf425[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Thu Mar 31 08:10:38 2022 +0300
+
+    Update
+
+[33mcommit 4a9aca1d545bec9147ed85e7e25184d2617a772f[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Sun Mar 20 11:28:40 2022 +0300
+
+    Add TDDExample
+
+[33mcommit d4fe2bda583fde2c2edf0ff7e13023168505bd72[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Mar 14 11:45:33 2022 +0300
+
+    Update
+
+[33mcommit 2226cfd3d0afcd69544d7c9556806c95fc103cb3[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Mar 14 08:00:07 2022 +0300
+
+    Update
+
+[33mcommit 988f1e7dab1a35bab70ffaf41238d16c90988184[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Sun Mar 13 20:08:54 2022 +0300
+
+    Update misc.xml
+
+[33mcommit c5671fa85f3199138c15a18d752340f014de3e52[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Sat Mar 5 14:30:13 2022 +0300
+
+    Update
+
+[33mcommit 9e583fdedcd5fb5e7d247a51a739c5901a979d66[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Fri Mar 4 14:28:59 2022 +0300
+
+    Update JUnit examples
+
+[33mcommit f2f239dae3a4426b7137869458949b3bc57ee4cb[m
+Merge: 090cbf6 de9b13e
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Thu Mar 3 15:43:17 2022 +0300
+
+    Merge branch 'main' of https://github.com/veyselharun/SoftwareVerificationAndValidation
+
+[33mcommit 090cbf6b365fe479b950b108418a11b995c1dc7a[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Thu Mar 3 15:43:02 2022 +0300
+
+    Add JUnitExample1
+
+[33mcommit de9b13e16133718f5dc9800687aa11c57684cdf3[m
+Merge: e641521 4b884ce
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Tue Feb 22 08:34:02 2022 +0300
+
+    Merge branch 'main' of https://github.com/veyselharun/SoftwareVerificationAndValidation
+
+[33mcommit e641521d3caccff30f7d9adb677577d4bbf1ecb3[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Tue Feb 22 08:32:41 2022 +0300
+
+    Add Sample2
+
+[33mcommit 1b8390da75feb7f285dc71026728303d12fb3bea[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Tue Feb 22 08:32:30 2022 +0300
+
+    Update Main.java
+
+[33mcommit 4b884cef22fcba35a6cbed9f2ac6ab1eb89cca6b[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Tue Feb 22 08:23:15 2022 +0300
+
+    Update README.md
+
+[33mcommit 99ced5880bb84a66c3c89d08333ceffeb56967f1[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Tue Feb 22 08:21:00 2022 +0300
+
+    Add Sample1
+
+[33mcommit 35cc4c43f481c3fa7cf26f6326ce0a5a375ec6c3[m
+Author: Veysel Harun ŞAHİN <vsahin@sakarya.edu.tr>
+Date:   Mon Feb 21 20:20:56 2022 +0300
+
+    Initial commit
